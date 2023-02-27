@@ -1,0 +1,18 @@
+.colums {
+margin: 400px auto;
+font-size: 24px;
+}
+
+.weather {
+position: relative;
+left:500px;
+top: 50px;
+text-align: center;
+}
+
+form {
+margin-top: -170px;
+}
+h1{
+    color: blueviolet;
+}
